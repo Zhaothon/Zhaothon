@@ -26,7 +26,7 @@ promoting programme knowledge.
 
 That's all...
 
-*Sorry,I can't use English well*
+*Sorry,I couldn't use English well*
 <!---
 Zhaothon/Zhaothon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
