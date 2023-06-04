@@ -2,7 +2,7 @@
 
 A 16-year-old boy
 
-liveing in a certain place.
+living in a certain place.
 
 ---
 
@@ -14,19 +14,27 @@ studying at a certain school.
 
 A python-learner
 
-enjoying freedom from coding.
+enjoying happiness from coding.
 
 ---
 
 A Chinese
 
-promoting programme knowledge.
+promoting program knowledge.
 
 ---
 
 That's all...
 
-*Sorry,I couldn't use English well*
+*Sorry,my English is not good*
+
+---
+
+---
+
+# 关于我
+
+
 <!---
 Zhaothon/Zhaothon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
