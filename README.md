@@ -24,7 +24,7 @@ promoting program knowledge.
 
 ---
 
-That's all...
+That's all...(View code to know more)
 
 *Sorry,my English is not good*
 
@@ -50,7 +50,7 @@ That's all...
 
 ---
 
-仅此而已。
+仅此而已。（查看源码了解更多）
 
 <!---also a fan of Satie and Butzelaar
 --->
